@@ -1,1 +1,1 @@
-# infradel.org  The Unbelievers of Infrastructure
+# The Unbelievers of Infrastructure
